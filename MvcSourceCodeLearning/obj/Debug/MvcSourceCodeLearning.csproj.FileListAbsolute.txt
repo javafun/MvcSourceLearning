@@ -1,0 +1,17 @@
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\MvcSourceCodeLearning.dll
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\MvcSourceCodeLearning.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\EntityFramework.dll
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\EntityFramework.xml
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\obj\Debug\MvcSourceCodeLearning.dll
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\obj\Debug\MvcSourceCodeLearning.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\Microsoft.Web.Helpers.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\Microsoft.Web.Mvc.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\obj\Debug\MvcSourceCodeLearning.Properties.Resources.resources
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\obj\Debug\MvcSourceCodeLearning.csprojResolveAssemblyReference.cache
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\obj\Debug\MvcSourceCodeLearning.csproj.GenerateResource.Cache
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.Helpers.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.Mvc.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.Razor.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.WebPages.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.WebPages.Razor.pdb
+C:\Dev\Temp\MvcSourceCodeLearning\MvcSourceCodeLearning\bin\System.Web.WebPages.Deployment.pdb

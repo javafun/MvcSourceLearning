@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="C1C29FC3-DD7E-48D8-8370-4F34CD29C465" ModuleId="MvcSourceCodeLearning" />
+  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="System.Web.Mvc_1" />
+</Modules>
